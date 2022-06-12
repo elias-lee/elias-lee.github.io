@@ -159,7 +159,19 @@ plugins:
   - jemoji
 
 whitelist:
+  - jekyll-archives
+  - jekyll-diagrams
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-imagemagick
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-twitter-plugin
   - jekyll-scholar
+  - jemoji
+
 # Sitemap settings
 defaults:
   - scope:
