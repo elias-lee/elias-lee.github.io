@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://elias-lee.github.io/blog2/sitemap.xml

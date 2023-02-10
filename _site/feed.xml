@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://elias-lee.github.io/blog2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elias-lee.github.io/blog2/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-06-12T13:05:46+09:00</updated><id>https://elias-lee.github.io/blog2/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Starting Data Science with Python Week1</title><link href="https://elias-lee.github.io/blog2/blog/2022/SDSWP/" rel="alternate" type="text/html" title="Starting Data Science with Python Week1" /><published>2022-05-05T20:59:00+09:00</published><updated>2022-05-05T20:59:00+09:00</updated><id>https://elias-lee.github.io/blog2/blog/2022/SDSWP</id><content type="html" xml:base="https://elias-lee.github.io/blog2/blog/2022/SDSWP/"><![CDATA[<h1 id="disclaimer">Disclaimer</h1>
+<p>This is a note created by me to be used during the class “Starting Data Science with Python”
+The class is composed of 4 classes in total and you can find the resources to each weeeks materias in the link below
+Main source of refrence: https://wikidocs.net/book/1</p>
+
+<h2 id="week1">Week1</h2>
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog2/assets/img/SDSWP_week1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog2/assets/img/SDSWP_week1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog2/assets/img/SDSWP_week1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/blog2/assets/img/SDSWP_week1.png" />
+
+  </picture>
+
+</figure>
+
+<p><br />
+<a href="https://elikaist.notion.site/Week1-Introduction-d02e0795c9314b39bcd5399fc3c29288">Click Here</a> to redirect to notion page</p>
+
+<hr />
+
+<h2 id="week2">Week2</h2>
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog2/assets/img/SDSWP_week2-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog2/assets/img/SDSWP_week2-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog2/assets/img/SDSWP_week2-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/blog2/assets/img/SDSWP_week2.png" />
+
+  </picture>
+
+</figure>
+
+<p><br />
+<a href="https://elikaist.notion.site/Week2-Introduction-cont-d-e95cb0184b5847a5a3d560e573d21465">Click Here</a> to redirect to notion page</p>
+
+<hr />
+
+<h2 id="week3">Week3</h2>
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog2/assets/img/SDSWP_week3-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog2/assets/img/SDSWP_week3-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog2/assets/img/SDSWP_week3-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/blog2/assets/img/SDSWP_week3.png" />
+
+  </picture>
+
+</figure>
+
+<p><br />
+<a href="https://elikaist.notion.site/Week3-If-While-For-functions-4612a572d1c54d08b69036e847054b36">Click Here</a> to redirect to notion page</p>
+
+<hr />
+
+<h2 id="week4">Week4</h2>
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog2/assets/img/SDSWP_week4-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog2/assets/img/SDSWP_week4-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog2/assets/img/SDSWP_week4-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/blog2/assets/img/SDSWP_week4.png" />
+
+  </picture>
+
+</figure>
+
+<p><br />
+<a href="https://elikaist.notion.site/Week4-Data-Manipulation-Dataframe-8f8cce48eafd4d9f8fb06cc3ea41b4ce">Click Here</a> to redirect to notion page</p>]]></content><author><name></name></author><category term="Python" /><category term="Basics" /><category term="Programming" /><category term="Python" /><summary type="html"><![CDATA[This are some basic lessons to learn python]]></summary></entry><entry><title type="html">KAIST HISTORY</title><link href="https://elias-lee.github.io/blog2/blog/2022/kaist_history/" rel="alternate" type="text/html" title="KAIST HISTORY" /><published>2022-04-01T06:01:00+09:00</published><updated>2022-04-01T06:01:00+09:00</updated><id>https://elias-lee.github.io/blog2/blog/2022/kaist_history</id><content type="html" xml:base="https://elias-lee.github.io/blog2/blog/2022/kaist_history/"><![CDATA[<h1 id="kaist-history">KAIST HISTORY</h1>
+
+<p><strong>KAIST</strong> is a research focused university established in 1971 to foster elite human resources in science and technology required in Korea.</p>
+
+<p><strong>CHARACTERISTICS</strong></p>
+
+<ul>
+  <li>Outside the boundaries of Ministry of education: although the university is considered as an educational institution is under the supervision of Mistry of Science and Technology rather than the Ministry of Education
+    <ul>
+      <li>This is an important characteristic since it allows KAIST to be managed freely outside of the regulatory boundaries exercised by the Ministry of Education on traditional educational institutions.</li>
+    </ul>
+  </li>
+  <li>Counteracting brain-draining: The university hired from 1971 to 1980 a total of 66 Overseas-Korean Doctors in engineering to bring back to the country the best-brains</li>
+  <li>Market &amp; performance oriented management: Unlike other universities at the time KAIST was strongly market &amp; performance oriented
+    <ul>
+      <li>Most of the research paper published by KAIST professors in the early times where focused in addressing specific industrial or military issues</li>
+      <li>KAIST published a total of 781 papers (546 national journal, 235 foreign journals) during the first 10 years of establishment.  (Kim et al, 1997)</li>
+    </ul>
+  </li>
+  <li>Government Intervention: creation of market.
+    <ul>
+      <li>To prevent lack of students enrolling to KAIST. The government created “Science and Technology high schools” to provide with good talents to the universities.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>CHRONOLOGY</strong></p>
+
+<p><img src="https://raw.githubusercontent.com/elias-lee/elias-lee.github.io/master/assets/img/34393_craw2.jpeg" alt="Source: KAIST" /></p>
+
+<p>Source: KAIST</p>
+
+<p>To support this initiative the government not only invested in the establishment of the university but also supported with full-scholarship, research funding, dormitory facilities, military service replacement, and many other benefits. Among those benefits the military service replacement benefit is evaluated to have been one of the preferred benefits ( “Science and technology annual”, Ministry of Science and Technology, 1979). During 175 and 1981 KAIS awarded a total of 1070 degrees (918 masters degree, 120 Professional Masters, and 32 Doctoral Degree ), this number was over 30% of the total national degree in engineering and science.</p>
+
+<p>In 1981 KAIS was merged with KIST(Korea Institute of Science and Technology) giving birth to KAIST (Korea Advance Institute of Science and Technology). The merged institution had a dual identity one of a research institution and the other of an educational institution. It maintained its dual structure up 1989 later the institution was divided once again to KAIST and KIST moving its research capacities to KIST. Also, in the same period KAIST wast merged with KIT (Korea Institute of Technology).</p>
+
+<p>To promote a faster development of Science and Technology talent the ministry education Created in 1983 its first “Science and Technology high school” creating a total of 13 “Science and Technology high school” in 1993.  Science and Technology high school students were given the merit to graduate in only 2 years and the an easier path to enroll to KAIST. As a consequence 3151 students enrolled to KAIST from 1983 to 1992 among those 3151 student 1861 students (85%) were early graduates. 8 Years later the institution was once more separated from KIST (but maintaining the same name) and this is the KAIST that we see nowadays.</p>
+
+<p>To date the institution keeps being one of the most prominent and elite institution of Korea.</p>
+
+<h3 id="bibliography">Bibliography</h3>
+
+<p>김영우 외(1997), 『한국 과학기술정책 50년의 발자취』, 과학기술정책관리연구소.</p>]]></content><author><name></name></author><category term="Korean" /><category term="History" /><category term="Public policy" /><category term="KAIST" /><category term="PolicyStudy" /><summary type="html"><![CDATA[This is a brief introduction of KAIST and its history]]></summary></entry></feed>
